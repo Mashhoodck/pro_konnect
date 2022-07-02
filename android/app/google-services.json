@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40898725792",
+    "project_id": "prokonnect-a4a8a",
+    "storage_bucket": "prokonnect-a4a8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40898725792:android:3a732520d398aeb9f886c5",
+        "android_client_info": {
+          "package_name": "com.prokonnect.pro_konnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40898725792-clcm6v2j8ng49i10qjq3rnbvp51mqv9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWnv0fqNVlSaRSwB7tvLW-kDhR_m1K_AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40898725792-clcm6v2j8ng49i10qjq3rnbvp51mqv9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

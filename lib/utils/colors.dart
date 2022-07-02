@@ -4,15 +4,20 @@ class AppColors {
   static final Color textColor = const Color(0xFFccc7c5);
 
   //mainColorUsed for login and otp screens and some widgets
-  static final Color mainColor = const Color(0xFF0B0E2C);
+  static final Color mainColor = const Color(0xFF000467);
   //textFieldColorused for textfields and textcolor;
-  static final Color textFieldsColor = const Color(0x33FFFFFF);
-  static final Color greenWidgets = const Color(0xFF22A45D);
-  static final Color paraColor = const Color(0xFF8f837f);
+  static final Color textFieldsColor = const Color(0xFFD1D2E3);
+  static final Color iconFadecolor = const Color(0x99FFFFFF);
+  static final Color searchfield = const Color(0xFFD1D2E3);
+
+  static final Color whiteText = Color(0x00E4DDDD);
+
+  static final Color greenWidgets = Color.fromARGB(255, 6, 241, 84);
+  static final Color paraColor = Color(0xFF8F837F);
   static final Color buttonBackgroundColor = const Color(0xFFf7f6f4);
-  static final Color signColor = const Color(0xFFa9a29f);
+  static final Color signColor = Color.fromARGB(223, 169, 162, 159);
   static final Color titleColor = const Color(0xFF5c524f);
   static final Color mainBlackColor = const Color(0xFF332d2b);
-  //static final Color yellowColor = const Color(0xFFfa7552);
-  static final Color yellowColor = const Color(0xFFffd379);
+
+  static final Color rectangle_bg = const Color(0x80000000);
 }
